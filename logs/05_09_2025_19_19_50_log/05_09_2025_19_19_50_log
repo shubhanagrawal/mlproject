@@ -1,0 +1,14 @@
+2025-05-09 19:19:52,336 - INFO - Entered Data Ingestion method or component
+2025-05-09 19:19:52,339 - INFO - Read student dataset as dataframe
+2025-05-09 19:19:52,342 - INFO - Raw data saved
+2025-05-09 19:19:52,342 - INFO - Train Test Split Initiated
+2025-05-09 19:19:52,345 - INFO - Data ingestion completed successfully
+2025-05-09 19:19:52,390 - INFO - Train and Test data loaded successfully.
+2025-05-09 19:19:52,390 - INFO - Obtaining preprocessing object...
+2025-05-09 19:19:52,391 - INFO - Categorical Columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2025-05-09 19:19:52,391 - INFO - Numerical Columns: ['writing_score', 'reading_score']
+2025-05-09 19:19:52,394 - INFO - Applying preprocessing on training and testing data
+2025-05-09 19:19:52,409 - INFO - Preprocessing object saved successfully.
+2025-05-09 19:19:52,409 - INFO - Split training and testing data
+2025-05-09 19:19:55,960 - INFO - Best Model Selected: Linear Regression with R2 Score: 0.8804
+2025-05-09 19:19:55,961 - INFO - Trained model saved successfully
