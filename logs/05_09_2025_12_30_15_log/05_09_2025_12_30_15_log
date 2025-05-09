@@ -1,0 +1,5 @@
+2025-05-09 12:30:17,091 - INFO - Entered Data Ingestion method or component
+2025-05-09 12:30:17,096 - INFO - Read dataset as dataframe
+2025-05-09 12:30:17,102 - INFO - Raw data saved
+2025-05-09 12:30:17,102 - INFO - Train Test Split Initiated
+2025-05-09 12:30:17,108 - INFO - Data ingestion completed successfully
