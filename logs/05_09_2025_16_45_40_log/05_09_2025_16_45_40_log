@@ -1,0 +1,10 @@
+2025-05-09 16:45:41,860 - INFO - Entered Data Ingestion method or component
+2025-05-09 16:45:41,864 - INFO - Read student dataset as dataframe
+2025-05-09 16:45:41,868 - INFO - Raw data saved
+2025-05-09 16:45:41,868 - INFO - Train Test Split Initiated
+2025-05-09 16:45:41,872 - INFO - Data ingestion completed successfully
+2025-05-09 16:45:41,931 - INFO - Test And Train Data Loaded Successfully
+2025-05-09 16:45:41,931 - INFO - Obtaining Preprocessing Object
+2025-05-09 16:45:41,931 - INFO - Categorical Columns :{categorical_columns}
+2025-05-09 16:45:41,931 - INFO - Numerical Columns :{numerical_columns}
+2025-05-09 16:45:41,932 - INFO - Applying Preprocessing object on training dataframe and testing dataframe

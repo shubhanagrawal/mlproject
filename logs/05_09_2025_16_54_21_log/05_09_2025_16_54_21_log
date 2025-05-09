@@ -1,0 +1,11 @@
+2025-05-09 16:54:22,807 - INFO - Entered Data Ingestion method or component
+2025-05-09 16:54:22,811 - INFO - Read student dataset as dataframe
+2025-05-09 16:54:22,815 - INFO - Raw data saved
+2025-05-09 16:54:22,816 - INFO - Train Test Split Initiated
+2025-05-09 16:54:22,820 - INFO - Data ingestion completed successfully
+2025-05-09 16:54:22,861 - INFO - Train and Test data loaded successfully.
+2025-05-09 16:54:22,861 - INFO - Obtaining preprocessing object...
+2025-05-09 16:54:22,861 - INFO - Categorical Columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2025-05-09 16:54:22,861 - INFO - Numerical Columns: ['writing score', 'reading_score']
+2025-05-09 16:54:22,874 - INFO - Applying preprocessing on training and testing data
+2025-05-09 16:54:22,875 - ERROR - Error in initiate_data_transformation: A given column is not a column of the dataframe
